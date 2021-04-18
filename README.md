@@ -1,4 +1,4 @@
 # playrxmcm  
-jp-tyo-dvm-2.sakurafrp.com:47117   
+jp-tyo-dvm.sakurafrp.com:31666   
 or  
-45.11.2.122:47117  
+109.166.36.56:31666  
